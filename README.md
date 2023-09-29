@@ -9,7 +9,17 @@ Confira as soluções:
   </thead>
   <tbody>
     <tr>
-      <td>01 - Ímpares de 0 a 100</td>
+      <td>Lista dos bancos</td>
+      <td>
+        <a 
+        href="#" target="_blank"
+        >
+        Solução
+        </a>
+      </td>
+    </tr>
+        <tr>
+      <td>Códigos para operações com a lista de bancos organizados em funções</td>
       <td>
         <a 
         href="#" target="_blank"
