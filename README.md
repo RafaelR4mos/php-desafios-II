@@ -12,7 +12,7 @@ Confira as soluções:
       <td>Lista dos bancos</td>
       <td>
         <a 
-        href="#" target="_blank"
+        href="https://github.com/RafaelR4mos/php-desafios-II/blob/main/bancos.php" target="_blank"
         >
         Solução
         </a>
@@ -22,7 +22,7 @@ Confira as soluções:
       <td>Códigos para operações com a lista de bancos organizados em funções</td>
       <td>
         <a 
-        href="#" target="_blank"
+        href="https://github.com/RafaelR4mos/php-desafios-II/blob/main/operacoes-bancos.php" target="_blank"
         >
         Solução
         </a>
