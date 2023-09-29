@@ -18,7 +18,6 @@ Confira as soluções:
         </a>
       </td>
     </tr>
-    <tr>
   </tbody>
 </table>
 
